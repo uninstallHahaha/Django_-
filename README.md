@@ -1,2 +1,2 @@
-# Django_-
-Django_旅游网站
+# Django_tour_demo
+Django_旅游网站_模板
